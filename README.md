@@ -14,6 +14,7 @@
 - 🪐 Exploring the universe, both real and virtual
 - 🎛️ Tinkering with IoT devices and hardware
 - 🎼 Jamming to some good music
+- ❤️ My girlfriend
 
 ---
 
