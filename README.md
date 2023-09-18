@@ -1,16 +1,48 @@
-### Hi there 👋
+👋 Hey there, I'm Dries! Welcome to my GitHub lair. 👨‍💻
 
-<!--
-**driesnuttin25/driesnuttin25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔌 Passionate about Electronics | 🌌 Space Enthusiast | 🎵 Music Aficionado
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Education:
+- 🖥️ Student of Electronics and Computer Science at PXL Hasselt.
+
+---
+
+🔍 Interests:
+
+- 🪐 Exploring the universe, both real and virtual
+- 🎛️ Tinkering with IoT devices and hardware
+- 🎼 Jamming to some good music
+
+---
+
+💻 Coding Languages & Frameworks:
+
+- Python 🐍
+- C/C++ ⚙️
+- HTML 🌐
+
+---
+
+🔭 Current Projects:
+
+- Working on an automatic Irrigation system
+  
+---
+
+🌱 Growth Mindset:
+
+- Always eager to learn, adapt, and create
+- Continuously updating my toolbox, both literally and metaphorically
+
+---
+
+🤝 Let's Connect:
+
+- 💼 Open for collaborations, freelance opportunities, and stellar projects
+- 💌 Reach out at dries.nuttin@hotmail.com
+
+---
+
+👇 Don't forget to scroll down and check out my repos! ⭐️ Feel free to drop a star if something catches your eye! ✨
