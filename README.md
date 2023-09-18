@@ -21,7 +21,7 @@
 
 - Python 🐍
 - C/C++ ⚙️
-- HTML 🌐
+- Full stack Web developer 🌐
 
 ---
 
