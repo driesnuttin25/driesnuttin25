@@ -1,6 +1,6 @@
-👋 Hey there, I'm Dries! Welcome to my GitHub lair. 👨‍💻
+👋 Hey there, I'm Dries! Welcome to my GitHub 👨‍💻
 
-🔌 Passionate about Electronics | 🌌 Space Enthusiast | 🎵 Music Aficionado
+🔌 Passionate about Electronics | 🌌 Space Enthusiast | 🎵 Music 
 
 ---
 
